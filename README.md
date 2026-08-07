@@ -1,6 +1,6 @@
 <h1>✨ Hi! I'm Safat</h1>
 
-- Software Engineer / Full-Stack Developer  
+- Software Engineer  
 - MS CS student @ Texas State University  
 - I enjoy turning ideas into working systems
 - Interested in autonomous systems and machine learning, with a focus on learning-based systems in complex, real-world environments
